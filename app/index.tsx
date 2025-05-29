@@ -1,4 +1,4 @@
-import { Text, View, TouchableOpacity } from "react-native";
+import { Text, View, TouchableOpacity, Pressable } from "react-native";
 import { styles } from "../styles/auth.styles";
 
 
@@ -8,8 +8,8 @@ export default function Index() {
       <Text style={styles.title}>Title Style</Text>
       <TouchableOpacity onPress={() => alert("You touched")}>
         <Text>Press me</Text>
-      
       </TouchableOpacity>
+
     </View>
   );
 }
