@@ -7,7 +7,7 @@ export default function Index() {
     <View style={styles.container}>
       <Text style={styles.title}>Title Style</Text>
       <TouchableOpacity onPress={() => alert("You touched")}>
-        <Text>Press me</Text>
+        <Text>Press mee!</Text>
       </TouchableOpacity>
 
     </View>
