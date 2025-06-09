@@ -9,5 +9,10 @@ export const styles = StyleSheet.create({
   title: {
     color: "red",
     fontSize: 50
+  },
+  image: {
+    width: 200,
+    height: 200,
+    resizeMode: "cover",
   }
 });
