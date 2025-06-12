@@ -8,7 +8,8 @@ export const styles = StyleSheet.create({
   },
   title: {
     color: "red",
-    fontSize: 50
+    fontSize: 50,
+    textAlign: "center"
   },
   image: {
     width: 200,
