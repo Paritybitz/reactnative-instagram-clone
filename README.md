@@ -2,6 +2,8 @@
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
+Reference: [Instagram Clone Tutorial](https://www.youtube.com/watch?v=wbj-DuaL748&t)
+
 ## Get started
 
 https://www.youtube.com/watch?v=wbj-DuaL748&t
